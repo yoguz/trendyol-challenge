@@ -1,0 +1,15 @@
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/repository/ConverterRepository.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/config/ConverterConfig.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/controllers/ConverterController.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/entity/ConvertedLink.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/ToDeepLinkBaseConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/dto/ConvertedLinkDto.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/ConverterService.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/ToWebUrlBaseConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/to_web_url/SearchPageConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/ConverterApplication.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/enums/ConverterEnums.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/to_deeplink/SearchPageConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/IConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/to_web_url/ProductPageConverter.java
+/Users/oguz/git/EsrefOguzhanY-ld-r-m/src/main/java/com/yoguz/trendyol/converter/service/to_deeplink/ProductPageConverter.java

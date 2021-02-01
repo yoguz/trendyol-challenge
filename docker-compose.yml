@@ -1,0 +1,28 @@
+version: '3'
+services:
+  app:
+    container_name: converterdocker
+    image: converterdocker
+    build: ./
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres-db
+    networks:
+      - trendyol-network
+    environment:
+      DATASOURCE_HOST: postgres-db
+  postgres-db:
+    image: postgres:latest
+    container_name: postgres-db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: trendyol
+      POSTGRES_PASSWORD: Tr3ndY0L
+      POSTGRES_DB: trenddb
+    networks:
+      - trendyol-network
+networks:
+      trendyol-network:

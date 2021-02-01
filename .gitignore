@@ -1,0 +1,11 @@
+# IDEA Files
+.idea
+
+# Mac Files
+.DS_Store
+
+# Help Files
+HELP.md
+
+# Generated Files
+**.class

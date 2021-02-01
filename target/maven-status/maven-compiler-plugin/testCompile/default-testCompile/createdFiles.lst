@@ -1,0 +1,4 @@
+com/yoguz/trendyol/converter/service/ConverterServiceDeepLinkToWebUrlTest.class
+com/yoguz/trendyol/converter/service/ConverterServiceWebUrlToDeepLinkTest.class
+com/yoguz/trendyol/converter/controllers/ConverterControllerIntTest.class
+com/yoguz/trendyol/converter/ConverterApplicationTests.class
